@@ -1,1 +1,1 @@
-# mars-machine-learning
+# mars-imagery-classification
