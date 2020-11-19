@@ -14,15 +14,7 @@ Therefore, to have the most efficient model I had to modify and train a portion 
 
 These results represent an increase in the performances compared to the model previously used by Wagstaff *et. al.* (2018). These improvement is probably due to the higher efficiency of the pre-trained model I used.
 
-
-
-
-
-
-
-
-
-
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 **REFERENCES:**
 
