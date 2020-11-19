@@ -16,4 +16,4 @@ These results represent an increase in the performances compared to the model pr
 
 Graph 3 shows the total number of cases for each category in the test set and the number of wrong predictions for each of those categories. Graph 4 shows the percentage of errors for each category on the test set. It results from this that the most exact predictions are performed on the categories 24 and 8 of the dataset which are respectively a wheel and the ground. It is probably not a coincidence that these two categories have the most distinctive features in the dataset.
 
-![alt text](https://github.com/elia-orsini/mars-imagery-classification/blob/main/graph-3.jph?raw=true)
+![alt text](https://github.com/elia-orsini/mars-imagery-classification/blob/main/graph-3.jpg?raw=true)
