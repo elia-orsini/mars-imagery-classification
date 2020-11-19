@@ -10,7 +10,7 @@ Training a completely new neural network requires a high amount of computational
 Therefore, to have the most efficient model I had to modify and train a portion of it with the dataset of images from Mars. Furthermore, to prevent the network from overfitting, I added some extra-layers like an image-augmentation layer and a dropout layer. These are the results I was able to get:
 
 **Train &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Validation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Test**<br />	
-**99.76% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 74.27%  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 78.77%**
+**99.76% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 74.27%  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 78.77%**
 
 These results represent an increase in the performances compared to the model previously used by Wagstaff *et. al.* (2018). These improvement is probably due to the higher efficiency of the pre-trained model I used.
 
