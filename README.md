@@ -12,7 +12,8 @@ Therefore, to have the most efficient model I had to modify and train a portion 
 **Train &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Validation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Test**<br />	
 **99.76% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 74.27%  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 78.77%**
 
-These results represent an increase in the performances compared to the model previously used by Wagstaff *et. al.* (2018). These improvement is probably due to the higher efficiency of the pre-trained model I used.
+These results represent an increase in the performances compared to the model previously used by Wagstaff *et. al.* (2018). These improvement is probably due to the higher efficiency of the pre-trained model I used.<br />
+The source code of the neural network is in the Google Colab file.
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
