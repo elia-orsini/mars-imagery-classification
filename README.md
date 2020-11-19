@@ -14,7 +14,7 @@ Therefore, to have the most efficient model I had to modify and train a portion 
 
 These results represent an increase in the performances compared to the model previously used by Wagstaff *et. al.* (2018). These improvement is probably due to the higher efficiency of the pre-trained model I used.
 
-Graph 3 shows the total number of cases for each category in the test set and the number of wrong predictions for each of those categories. Graph 4 shows the percentage of errors for each category on the test set. It results from this that the most exact predictions are performed on the categories 24 and 8 of the dataset which are respectively a wheel and the ground. It is probably not a coincidence that these two categories have the most distinctive features in the dataset.
+REFERENCES:
 
-![alt text](https://github.com/elia-orsini/mars-imagery-classification/blob/main/graph-3.jpg?raw=true)
-![alt text](https://github.com/elia-orsini/mars-imagery-classification/blob/main/graph-4.jpg?raw=true)
+- Kiri L. Wagstaff, You Lu, Alice Stanboli, Kevin Grimes, Thamme Gowda, and Jordan Padams. "Deep Mars: CNN Classification of Mars Imagery for the PDS Imaging Atlas." Proceedings of the Thirtieth Annual Conference on Innovative Applications of Artificial Intelligence, 2018<br />	
+- Dataset available online at: https://zenodo.org/record/1049137#.X65UipP7Red. DOI: 10.5281/zenodo.1049137
