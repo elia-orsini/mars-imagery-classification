@@ -14,7 +14,17 @@ Therefore, to have the most efficient model I had to modify and train a portion 
 
 These results represent an increase in the performances compared to the model previously used by Wagstaff *et. al.* (2018). These improvement is probably due to the higher efficiency of the pre-trained model I used.
 
-REFERENCES:
+
+
+
+
+
+
+
+
+
+
+**REFERENCES:**
 
 - Kiri L. Wagstaff, You Lu, Alice Stanboli, Kevin Grimes, Thamme Gowda, and Jordan Padams. "Deep Mars: CNN Classification of Mars Imagery for the PDS Imaging Atlas." Proceedings of the Thirtieth Annual Conference on Innovative Applications of Artificial Intelligence, 2018<br />	
 - Dataset available online at: https://zenodo.org/record/1049137#.X65UipP7Red. DOI: 10.5281/zenodo.1049137
